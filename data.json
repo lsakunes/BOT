@@ -6,8 +6,8 @@
     "chants": 0
   },
   "748423012386340876": {
-    "dedemonetizations": 9999999999,
-    "fails": 0,
+    "dedemonetizations": 1,
+    "fails": 99999999999999999999999,
     "chanting": false,
     "chants": 0
   },
