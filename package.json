@@ -1,0 +1,21 @@
+{
+  "name": "dedemonetizer",
+  "version": "1.0.1",
+  "description": "Have you ever been demonetized? Did you ever want to turn back into a human? Well the Dedemonetizer™ is here to help. Just say HELP I'VE BEEN DEMONETIZED and it will dedemonetize you. Not being a demon has never been so easy.",
+  "main": "dedemonetizer.js",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demonetize",
+    "bot",
+    "dedemontizer",
+    "demonetized",
+    "demon"
+  ],
+  "author": "honk#0608"
+}
